@@ -1,4 +1,4 @@
-# DinnerGamble
+# DinnerVote
 
 
 This semester's challenge task (CT) is the design and implementation of an onchain voting application. Ideally, the application is a decentralized 
@@ -26,6 +26,6 @@ the 14.12.2022, you should show the architecture, components, and design decisio
 After your presentation, you need to hand in your PDF presentation.
 
 ## Idea
-This app can help people decide what to eat for dinner. 
+This app can help people decide what to eat for dinner. To start a vote you need to pay a specific amount of Ethereum and submit at least one dinner idea. After that you can vote for multiple dinner ideas, but only once per idea.
 
 ## Infrastructure
