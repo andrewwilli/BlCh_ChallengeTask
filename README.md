@@ -24,8 +24,18 @@ Second hand-in: 13.12.2022, 23:59 (CET) - well documented infrastructure (Readme
 via invite or email to thomas.bocek-at-ost.ch. The code and configuration should be easy to read and/or well documented. For the presentation on 
 the 14.12.2022, you should show the architecture, components, and design decisions in 10-15 min, a demo in 5-10 min, and the Q&A will be 5-10 min. 
 After your presentation, you need to hand in your PDF presentation.
-
+ 
 ## Idea
 This app can help people decide what to eat for dinner. To start a vote you need to pay a specific amount of Ethereum and submit at least one dinner idea. After that you can vote for multiple dinner ideas, but only once per idea.
+
+## Technology and Tools
+* Ethereum
+* JavaScript
+* HTML/CSS
+* Solidity
+* Truffle
+* Truffe Contracts
+* Metamask
+
 
 ## Infrastructure
