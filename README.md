@@ -28,14 +28,15 @@ After your presentation, you need to hand in your PDF presentation.
 ## Idea
 This app can help people decide what to eat for dinner. To start a vote you need to pay a specific amount of Ethereum and submit at least one dinner idea. After that you can vote for multiple dinner ideas, but only once per idea.
 
-## Technology and Tools
+## Technology/Dependency/Tools
 * Ethereum
 * JavaScript
 * HTML/CSS
+* Truffle Framework
 * Solidity
-* Truffle
-* Truffe Contracts
-* Metamask
+* Ganache
+* Metamask (Google Chrome Extension)
+* Node.js
 
 
 ## Infrastructure
